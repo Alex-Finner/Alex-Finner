@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...working as student
-- 🌱 I’m currently learning ...java , c++ , python
-- 👯 I’m looking to collaborate on ...java
-- 🤔 I’m looking for help with ...Anyone
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...???//
-- 😄 Pronouns: ...????//
-- ⚡ Fun fact: ...😂😂😂😂
+- 🔭 I’m currently working on ... working as student
+- 🌱 I’m currently learning ... java , c++ , python
+- 👯 I’m looking to collaborate on ... java
+- 🤔 I’m looking for help with ... Anyone
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... ???///
+- 😄 Pronouns: ... ????//
+- ⚡ Fun fact: ... 😂😂😂😂
 -->
